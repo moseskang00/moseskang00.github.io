@@ -7,7 +7,7 @@ export const ProjectList = [
         title:"Music Recommender Application",
         image:img1,
         description:"This application is designed to use an album search RestAPI to display recommended artist information based on user input. This app was created using SwiftUI and RestfulAPIs.",
-        link:"https://github.com/Moses-kang/Music-Recommender-IOS-App"
+        link:"https://github.com/Moseskang00/Music-Recommender-IOS-App"
     },
     {
         title:"Autism Treatment Mobile Application",
@@ -19,6 +19,6 @@ export const ProjectList = [
         title:"Amazon Crossing",
         image:img3,
         description:"This web application takes inspiration from Amazon.com, but instead of everyday items the project features items from video game Animal Crossing New Horizons. This application was created using Postgres, Python, and Flask to create the API backend and HTML and CSS to create the frontend",
-        link:"https://github.com/Moses-kang/CSE412-Final-Project"
+        link:"https://github.com/Moseskang00/CSE412-Final-Project"
     },
 ]

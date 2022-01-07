@@ -1,7 +1,7 @@
 export const iconItems = [
     {
         iconName: 'fab fa-github',
-        link:'https://github.com/Moses-kang',
+        link:'https://github.com/Moseskang00',
         cName:'icon-style'
     },
     {
