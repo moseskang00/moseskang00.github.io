@@ -24,6 +24,9 @@ class Home extends Component{
                         </ul>
                         </div>
                     </div>
+                    <div className='home-footer'>
+                        Background pc: Moses Kang
+                    </div>
                 </div>
             </div>
         )

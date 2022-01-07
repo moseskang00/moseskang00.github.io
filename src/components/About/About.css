@@ -18,14 +18,14 @@ header {
   font-family: "Mukta", sans-serif;
 }
 
-.intro {
+.intro-about {
   width: 100%;
   color: White;
   font-size: 2em;
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   padding: 20px;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
 }
 

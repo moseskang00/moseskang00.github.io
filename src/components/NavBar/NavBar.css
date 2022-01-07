@@ -17,6 +17,10 @@
   justify-content: center;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .nav-links {
   text-decoration: none;
   color: white;

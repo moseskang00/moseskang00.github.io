@@ -1,0 +1,83 @@
+.contact-container {
+  background-color: #171717;
+  width: 100vw;
+  min-height: 75vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact-start {
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sub-header {
+  color: #737373;
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+}
+.intro,
+.connectables {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.connectables {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 2.5em;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+
+.linkedIn,
+.email {
+  color: white;
+  height: 200px;
+  width: 250px;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.fa-linkedin-in,
+.fa-envelope-open {
+  font-size: 75px;
+  align-items: center;
+  justify-content: center;
+  bottom: 0;
+  padding: 20px;
+}
+
+.msg,
+.sub-msg,
+.linkedin-button {
+  line-height: 20px;
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+}
+
+.linkedin-button {
+  border: 3px white solid;
+  text-decoration: none;
+  border-radius: 10px;
+  color: white;
+  transition: 0.3s;
+}
+.linkedin-button:hover {
+  background-color: #0072b1;
+  border-color: #0072b1;
+}

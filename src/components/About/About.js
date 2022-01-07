@@ -5,14 +5,14 @@ import portrait from '../../Images/portriat.JPG';
 class About extends Component {
     render(){
         return (
-            <div className='about-section'>
+            <div className='about-section' id='about'>
                 <header>About</header>
                 <div className='about-main'>
                     <div className='portrait'>
                         <img src={portrait}></img>
                     </div>
                     <div className='main-intro'>
-                        <div className='intro'>
+                        <div className='intro-about'>
                             Hi, It's nice to meet you!
                         </div>
                         <div className='detail-section'>
