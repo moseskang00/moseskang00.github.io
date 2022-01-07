@@ -1,0 +1,63 @@
+.background-image {
+  background-image: url("../../Images/Home_background2.jpg");
+  height: 100vh;
+  width: 100vw;
+  object-fit: fill;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 0;
+  position: relative;
+}
+
+.title-card {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 70%;
+  width: 100%;
+}
+
+.title-edit {
+  justify-content: center;
+  align-items: center;
+  display: inline;
+}
+
+.roles-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #e5e5e5;
+  font-size: 1.2em;
+  font-family: "Roboto", sans-serif;
+}
+
+.name-card {
+  font-size: 5rem;
+  font-family: "Nunito Sans", sans-serif;
+  color: #e5e5e5;
+  text-shadow: 5px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.icons {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 2.5em;
+  justify-content: center;
+  padding: 25px;
+}
+.fa-linkedin,
+.fa-github,
+.fa-envelope {
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+  text-shadow: 3px 2px 2px rgba(0, 0, 0, 0.884);
+  transition: 0.4s;
+}
+.fa-linkedin:hover,
+.fa-github:hover,
+.fa-envelope:hover {
+  color: #2c599d;
+}

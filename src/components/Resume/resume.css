@@ -1,0 +1,18 @@
+header {
+  font-size: 1.2em;
+  letter-spacing: 1.5px;
+  color: #f28c28;
+  font-family: "Mukta", sans-serif;
+}
+
+.resume-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 175vh;
+  width: 100vw;
+  margin: 0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
