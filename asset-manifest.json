@@ -1,25 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.333f5a01.chunk.css",
-    "main.js": "/static/js/main.9f31858b.chunk.js",
-    "main.js.map": "/static/js/main.9f31858b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8e4e49e3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8e4e49e3.js.map",
-    "static/js/2.e326052a.chunk.js": "/static/js/2.e326052a.chunk.js",
-    "static/js/2.e326052a.chunk.js.map": "/static/js/2.e326052a.chunk.js.map",
+    "main.css": "/static/css/main.33573b37.css",
+    "main.js": "/static/js/main.1b53026d.js",
+    "static/media/portriat.JPG": "/static/media/portriat.67f7ebd314bc09ddf412.JPG",
+    "static/media/Home_background2.jpg": "/static/media/Home_background2.ae33a6c0689b9443e6f1.jpg",
+    "static/media/music-app.png": "/static/media/music-app.3d87e65744589e333169.png",
+    "static/media/autism-app.png": "/static/media/autism-app.085bac4cd99734b8c52a.png",
+    "static/media/amazon_crossing.jpg": "/static/media/amazon_crossing.994a5ec61351b483e525.jpg",
     "index.html": "/index.html",
-    "static/css/main.333f5a01.chunk.css.map": "/static/css/main.333f5a01.chunk.css.map",
-    "static/js/2.e326052a.chunk.js.LICENSE.txt": "/static/js/2.e326052a.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/static/media/Home_background2.ae33a6c0.jpg",
-    "static/media/amazon_crossing.994a5ec6.jpg": "/static/media/amazon_crossing.994a5ec6.jpg",
-    "static/media/autism-app.085bac4c.png": "/static/media/autism-app.085bac4c.png",
-    "static/media/music-app.3d87e657.png": "/static/media/music-app.3d87e657.png",
-    "static/media/portriat.67f7ebd3.JPG": "/static/media/portriat.67f7ebd3.JPG"
+    "main.33573b37.css.map": "/static/css/main.33573b37.css.map",
+    "main.1b53026d.js.map": "/static/js/main.1b53026d.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e4e49e3.js",
-    "static/js/2.e326052a.chunk.js",
-    "static/css/main.333f5a01.chunk.css",
-    "static/js/main.9f31858b.chunk.js"
+    "static/css/main.33573b37.css",
+    "static/js/main.1b53026d.js"
   ]
 }
