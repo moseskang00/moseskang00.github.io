@@ -102,3 +102,43 @@ img {
     margin-right: auto;
   }
 }
+
+@media (max-width: 900px) {
+  img {
+    height: 300px;
+    width: 202.5px;
+  }
+  .detail-section {
+    font-size: 1em;
+    text-align: center;
+    line-height: 24px;
+  }
+  .languages {
+    font-size: 1em;
+  }
+  .intro-about {
+    font-size: 1.5em;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 500px) {
+  img {
+    height: 200px;
+    width: 135px;
+  }
+  .detail-section {
+    font-size: 0.8em;
+    text-align: center;
+    line-height: 20px;
+  }
+  .languages {
+    font-size: 0.8em;
+  }
+  .intro-about {
+    font-size: 1.4em;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+}

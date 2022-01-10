@@ -13,9 +13,11 @@ class Timeline extends Component {
                             return (
                                 <li key={index}>
                                     <div className='left-side'>
-                                        <div className='position-title'>
-                                            {item.header}
-                                        </div>
+                                        <a className='ext-link' href={item.link}>
+                                            <div className='position-title'>
+                                                {item.header}
+                                            </div>
+                                        </a>
                                         <div className='date'>
                                             {item.subHeader}
                                         </div>

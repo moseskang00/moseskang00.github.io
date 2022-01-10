@@ -69,3 +69,17 @@
   font-size: 1.3em;
   font-family: "Nunito Sans", sans-serif;
 }
+
+@media (max-width: 500px) {
+  .name-card {
+    font-size: 3em;
+    text-align: center;
+  }
+  .roles-card {
+    font-size: 1.1em;
+    text-align: center;
+  }
+  .home-footer {
+    font-size: 0.8em;
+  }
+}

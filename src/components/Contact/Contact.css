@@ -92,3 +92,17 @@ header {
   justify-content: center;
   align-items: center;
 }
+
+@media (max-width: 500px) {
+  .connectables {
+    display: flex;
+    flex-direction: column;
+  }
+  .fa-linkedin-in,
+  .fa-envelope-open {
+    font-size: 50px;
+  }
+  .intro {
+    font-size: 1.4em;
+  }
+}

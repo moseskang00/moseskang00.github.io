@@ -24,7 +24,10 @@ class NavBar extends Component {
     render() {
         return(
             <nav className="NavbarItems">
-                <ul className='nav-menu'>
+                <div className='menu-icon' onClick={this.handleClick}>
+                    <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}/>
+                </div>
+                <ul className={this.state.clicked ? 'nav-menu active' : 'nav-menu'}>
                     {MenuItems.map((item, index) => {
                         return (
                             <li key={index}>

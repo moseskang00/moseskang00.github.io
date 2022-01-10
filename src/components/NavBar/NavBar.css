@@ -16,6 +16,15 @@
   width: 70vw;
   justify-content: center;
 }
+.fa-bars {
+  color: white;
+}
+.fa-times {
+  color: #fd5e53;
+}
+.menu-icon {
+  display: none;
+}
 
 html {
   scroll-behavior: smooth;
@@ -30,4 +39,48 @@ html {
 }
 .nav-links:hover {
   color: #fd5e53;
+}
+
+@media (max-width: 740px) {
+  .NavbarItems {
+    position: relative;
+  }
+
+  .nav-links {
+    text-decoration: none;
+    color: white;
+    padding: 1rem 1rem;
+    transition: 0.4s;
+    font-family: "Mukta", sans-serif;
+  }
+  .nav-menu {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    top: 0px;
+    left: -100%;
+    opacity: 1;
+    transition: all 0.5s ease;
+  }
+  .nav-menu.active {
+    background: #808080;
+    left: 0;
+    opacity: 0.95;
+    transition: all 0.5s ease;
+    z-index: 1;
+    letter-spacing: 2px;
+  }
+
+  .menu-icon {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-100%, 60%);
+    font-size: 1.8rem;
+    cursor: pointer;
+    z-index: 2;
+  }
 }
