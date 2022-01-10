@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a44fb100.css",
-    "main.js": "/static/js/main.a16bd703.js",
+    "main.js": "/static/js/main.07cb8272.js",
     "static/media/portriat.JPG": "/static/media/portriat.67f7ebd314bc09ddf412.JPG",
     "static/media/Home_background2.jpg": "/static/media/Home_background2.ae33a6c0689b9443e6f1.jpg",
     "static/media/music-app.png": "/static/media/music-app.3d87e65744589e333169.png",
@@ -9,10 +9,10 @@
     "static/media/amazon_crossing.jpg": "/static/media/amazon_crossing.994a5ec61351b483e525.jpg",
     "index.html": "/index.html",
     "main.a44fb100.css.map": "/static/css/main.a44fb100.css.map",
-    "main.a16bd703.js.map": "/static/js/main.a16bd703.js.map"
+    "main.07cb8272.js.map": "/static/js/main.07cb8272.js.map"
   },
   "entrypoints": [
     "static/css/main.a44fb100.css",
-    "static/js/main.a16bd703.js"
+    "static/js/main.07cb8272.js"
   ]
 }
