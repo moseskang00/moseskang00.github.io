@@ -16,7 +16,7 @@ class Home extends Component{
                             <ul className='icons'>
                             {iconItems.map((item, index) => {
                                 return(
-                                    <li key={index}>
+                                    <li className='nav-li' key={index}>
                                         <a className={item.iconName} href={item.link}></a>
                                     </li>
                                 )
