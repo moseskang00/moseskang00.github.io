@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.33573b37.css",
-    "main.js": "/static/js/main.1b53026d.js",
+    "main.css": "/static/css/main.45654211.css",
+    "main.js": "/static/js/main.e5552995.js",
     "static/media/portriat.JPG": "/static/media/portriat.67f7ebd314bc09ddf412.JPG",
     "static/media/Home_background2.jpg": "/static/media/Home_background2.ae33a6c0689b9443e6f1.jpg",
     "static/media/music-app.png": "/static/media/music-app.3d87e65744589e333169.png",
     "static/media/autism-app.png": "/static/media/autism-app.085bac4cd99734b8c52a.png",
     "static/media/amazon_crossing.jpg": "/static/media/amazon_crossing.994a5ec61351b483e525.jpg",
     "index.html": "/index.html",
-    "main.33573b37.css.map": "/static/css/main.33573b37.css.map",
-    "main.1b53026d.js.map": "/static/js/main.1b53026d.js.map"
+    "main.45654211.css.map": "/static/css/main.45654211.css.map",
+    "main.e5552995.js.map": "/static/js/main.e5552995.js.map"
   },
   "entrypoints": [
-    "static/css/main.33573b37.css",
-    "static/js/main.1b53026d.js"
+    "static/css/main.45654211.css",
+    "static/js/main.e5552995.js"
   ]
 }
