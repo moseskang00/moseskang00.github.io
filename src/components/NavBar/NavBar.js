@@ -30,7 +30,7 @@ class NavBar extends Component {
                 <ul className={this.state.clicked ? 'nav-menu active' : 'nav-menu'}>
                     {MenuItems.map((item, index) => {
                         return (
-                            <li key={index}>
+                            <li className='nav-li' key={index}>
                                 <a className={item.cName} href={item.url}>{item.title}</a>
                             </li>
                         )

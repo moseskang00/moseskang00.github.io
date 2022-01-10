@@ -40,6 +40,10 @@ html {
 .nav-links:hover {
   color: #fd5e53;
 }
+.nav-li {
+  display: flex;
+  justify-content: center;
+}
 
 @media (max-width: 740px) {
   .NavbarItems {
